@@ -2,11 +2,11 @@ package konyvtar.model;
 
 import konyvtar.model.termek.AbstractTermek;
 
-public class NemKoTermek extends AbstractTermek {
+public class BakelitLemez extends AbstractTermek {
 
     private boolean nemKolcs = false;
 
-    public NemKoTermek(boolean nemKolcs) {
+    public BakelitLemez(boolean nemKolcs) {
         super();
         this.nemKolcs = nemKolcs;
     }
