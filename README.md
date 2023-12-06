@@ -1,1 +1,3 @@
-# konyvtar_team_projekt
+# Mogyoródi Balázs
+# Szendefi Krisztófer
+# Somogyi Márton
