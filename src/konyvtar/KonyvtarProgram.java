@@ -6,11 +6,11 @@ public class KonyvtarProgram {
 
 
     public static void main(String[] args) {
-       main();
+       new KonyvtarProgram().run();
     }
 
-    private static void main() {
-        
+    private void run() {        
+        Konyvtar konyvtar = new Konyvtar();
     }
     
 }
