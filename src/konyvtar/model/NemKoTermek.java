@@ -1,4 +1,6 @@
-package konyvtar;
+package konyvtar.model;
+
+import konyvtar.model.termek.AbstractTermek;
 
 public class NemKoTermek extends AbstractTermek {
 
