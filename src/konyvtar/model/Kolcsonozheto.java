@@ -1,5 +1,5 @@
 
-package konyvtar.model.termek;
+package konyvtar.model;
 
 public interface Kolcsonozheto {
     

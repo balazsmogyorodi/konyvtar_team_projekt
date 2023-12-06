@@ -2,6 +2,8 @@
 package konyvtar;
 
 import java.util.ArrayList;
+import konyvtar.model.termek.AbstractTermek;
+import konyvtar.model.Kolcsonozheto;
 
 
 public class Konyvtar {

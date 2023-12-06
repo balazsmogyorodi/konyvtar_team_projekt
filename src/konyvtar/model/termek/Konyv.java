@@ -1,6 +1,8 @@
 
 package konyvtar.model.termek;
 
+import konyvtar.model.Kolcsonozheto;
+
 
 
 
